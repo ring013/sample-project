@@ -1,1 +1,2 @@
-print("Hello, Git!")
+print("こんにちは、Gitの世界へようこそ!")
+
