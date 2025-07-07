@@ -1,0 +1,5 @@
+Hello, Git!
+
+Hello, Git! This is a new message.
+
+こんにちは！Gitの練習中です。
